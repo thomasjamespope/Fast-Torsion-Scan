@@ -1,0 +1,9 @@
+name: Fast-Torsion-Scan
+
+channels:
+  - conda-forge
+  
+dependencies:
+    - ase
+    - numpy
+    - collections
